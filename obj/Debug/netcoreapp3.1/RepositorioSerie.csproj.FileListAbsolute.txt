@@ -1,0 +1,13 @@
+C:\workspace\dio\dotnet-personalizado\RepositorioSerie\bin\Debug\netcoreapp3.1\RepositorioSerie.exe
+C:\workspace\dio\dotnet-personalizado\RepositorioSerie\bin\Debug\netcoreapp3.1\RepositorioSerie.deps.json
+C:\workspace\dio\dotnet-personalizado\RepositorioSerie\bin\Debug\netcoreapp3.1\RepositorioSerie.runtimeconfig.json
+C:\workspace\dio\dotnet-personalizado\RepositorioSerie\bin\Debug\netcoreapp3.1\RepositorioSerie.runtimeconfig.dev.json
+C:\workspace\dio\dotnet-personalizado\RepositorioSerie\bin\Debug\netcoreapp3.1\RepositorioSerie.dll
+C:\workspace\dio\dotnet-personalizado\RepositorioSerie\bin\Debug\netcoreapp3.1\RepositorioSerie.pdb
+C:\workspace\dio\dotnet-personalizado\RepositorioSerie\obj\Debug\netcoreapp3.1\RepositorioSerie.csprojAssemblyReference.cache
+C:\workspace\dio\dotnet-personalizado\RepositorioSerie\obj\Debug\netcoreapp3.1\RepositorioSerie.AssemblyInfoInputs.cache
+C:\workspace\dio\dotnet-personalizado\RepositorioSerie\obj\Debug\netcoreapp3.1\RepositorioSerie.AssemblyInfo.cs
+C:\workspace\dio\dotnet-personalizado\RepositorioSerie\obj\Debug\netcoreapp3.1\RepositorioSerie.csproj.CoreCompileInputs.cache
+C:\workspace\dio\dotnet-personalizado\RepositorioSerie\obj\Debug\netcoreapp3.1\RepositorioSerie.dll
+C:\workspace\dio\dotnet-personalizado\RepositorioSerie\obj\Debug\netcoreapp3.1\RepositorioSerie.pdb
+C:\workspace\dio\dotnet-personalizado\RepositorioSerie\obj\Debug\netcoreapp3.1\RepositorioSerie.genruntimeconfig.cache
